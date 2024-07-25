@@ -22,5 +22,11 @@ Tu tarea es completar la implementación de toda la functionalidad de forma tal 
 - ❌ Estresarte 🤗
 
 
-
-
+## Pasos para comenzar
+1. Haz un fork usando este repositorio como template
+2. Clona el repositorio en tu máquina
+3. Realiza los cambios necesarios para que los tests pasen
+4. Sube tus cambios a tu repositorio
+5. Avísanos que has terminado
+6. ???
+7. PROFIT
