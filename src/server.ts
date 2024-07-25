@@ -1,21 +1,11 @@
 import Hapi from '@hapi/hapi'
-import { defineMock as defineRoutes } from './routes'
+import { defineRoutes } from './routes'
 
 const getServer = () => {
     const server = Hapi.server({
         host: 'localhost',
         port: 3000,
     })
-
-    server.route({
-        method: 'GET',
-        path: '/ping',
-        handler: async (request, h) => {
-            return {
-                ok: true
-            }
-        }
-    })  
 
     defineRoutes(server)
 
