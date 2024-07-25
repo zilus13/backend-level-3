@@ -5,7 +5,7 @@ Este proyecto es una API REST que permite realizar operaciones CRUD sobre una en
 
 La entidad tiene 3 campos: `id`, `name` y `price`.
 
-Tu tarea es completar la implementación de toda la functionalidad de forma tal de que los tests e2e pasen exitosamente.
+Tu tarea es completar la implementación de toda la funcionalidad de forma tal de que los tests e2e pasen exitosamente.
 
 ### Que puedes hacer: 
 - ✅ Modificar el código fuente y agregar nuevas clases, métodos, campos, etc.
