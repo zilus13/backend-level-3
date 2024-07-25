@@ -30,3 +30,5 @@ Tu tarea es completar la implementación de toda la funcionalidad de forma tal d
 5. Avísanos que has terminado
 6. ???
 7. PROFIT
+
+### Cualquier duda contactarme a https://www.linkedin.com/in/andreujuan/
