@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",          // Versión moderna de ECMAScript
+      "module": "NodeNext",          // Módulos modernos
+      "rootDir": "./src",          // Directorio raíz del código fuente
+      "outDir": "./dist",          // Directorio de salida para los archivos compilados
+      "esModuleInterop": true,     // Interoperabilidad con módulos CommonJS
+      "strict": true,              // Habilitar todas las verificaciones estrictas
+      "skipLibCheck": true,        // Evitar revisar archivos de declaración
+      "moduleResolution": "NodeNext"  // Resolución de módulos estilo Node.js
+    },
+    "include": ["src/**/*"],        // Incluir todos los archivos en `src`
+    "tsc-alias": {
+        "addExtensions": true
+      }
+    
+  }
+  
